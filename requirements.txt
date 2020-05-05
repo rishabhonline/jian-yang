@@ -1,4 +1,4 @@
-name: jinyang
+name=jinyang
 channels:
   - anaconda
   - defaults
