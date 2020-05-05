@@ -7,7 +7,9 @@ import numpy as np
 import scipy
 
 st.markdown("""
-	#  Jian Yang: Hotdog Identifying App 🌭
+	# Greatest Coder Living 🧑🏻‍💻 @ Jian Yang
+![enter image description here](https://pbs.twimg.com/media/C_4cr03XoAA33Xp?format=jpg&name=small)
+#  Jian Yang: Hotdog Identifying App 🌭
 Jin Yang, "What would you say if I told you there is an app on the market .." when he gets interrupted by Erlich.
 Lucky that I have no Erlich to interrupt me.
 # Why This App?
