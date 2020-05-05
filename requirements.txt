@@ -4,5 +4,5 @@ channels==
   - defaults
 dependencies==
   - git=2.23.0=h6bb4b03_0
-prefix: C:\Users\hp\anaconda3\envs\jinyang
+prefix==C:\Users\hp\anaconda3\envs\jinyang
 
